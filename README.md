@@ -1,8 +1,27 @@
-# Find-My-Git
-It ia a react.js website which helps to find and analyse a user github profile. It has a very fascinating user-experience. It makes use of github API to show the details. Technologies used:- HTML5, CSS, JavaScript, React, JSX, Axios
+# Find My Git
+🚀 **Find My Git** - Discover GitHub profiles with ease! 🎉
 
-Live link -> https://nimble-sunflower-4b0247.netlify.app/
+Find My Git is a React-based application that allows users to explore GitHub profiles using just a username. It provides insightful stats and visualizations for repositories, languages, and more, making GitHub data easy to explore through a smooth, user-friendly interface.
 
-![image](https://user-images.githubusercontent.com/47470062/217622407-996a4201-2237-48cc-8662-80edc6090901.png)
+🌐 **Live Demo**
+Check out the live version of Find My Git here: [Find My Git Live](https://find-my-git.netlify.app/)
 
-![image](https://user-images.githubusercontent.com/47470062/217622502-665a7b13-48e0-4627-9f4c-df26f5989eb8.png)
+# Features
+✨ **User-Friendly Interface**: Easily navigate through profiles and access information with a simple search.
+
+✨ **Real-Time Data**: Fetches up-to-date data from the GitHub API for accurate profile insights.
+
+✨ **Interactive Visualizations**: Displays repository statistics and language usage visually for better understanding.
+
+# Tech Stack
+**React** & **JSX**
+
+**JavaScript** & **CSS**
+
+**Fetch API** for GitHub data
+
+**Charting Libraries** for data visualizations
+
+**React Hooks** for state and effect management
+
+**GitHub API** for fetching user profiles and repositories
